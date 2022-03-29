@@ -6,7 +6,7 @@
 ```
 Language Cards(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md  
 |
 ├── public
 │     └── index.html
